@@ -18,3 +18,11 @@ python manage.py makemigrations
 python manage.py migrate
 
 python manage.py runserver
+
+# For Admin Login
+python manage.py createsuperuser
+Username : admin
+Password : 12345678
+
+
+# Happy Coding 😄
